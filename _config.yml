@@ -14,14 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: The Choco Bank
-email: m@noj.cc
+email: ""
 description: >- # this means to ignore newlines until "baseurl:"
   The non-definitive craft chocolate guide.
 domain: thechocobank.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://thechocobank.com" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
-#github_username:  jekyll
 
 # Build settings
 markdown: kramdown
@@ -40,3 +38,9 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Minima Theme Options
+header_pages: [] # don't show any header pages.
+minima:
+  social_links:
+    - { platform: instagram, user_url: "https://instagram.com/thechocolatepolice" }
