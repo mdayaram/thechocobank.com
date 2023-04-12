@@ -1,0 +1,654 @@
+---
+- name: Dandelion Chocolate
+  primary_location: San Francisco, CA, USA
+  locations: USA, Japan
+  shipping: Australia, Canada, Germany, Iceland, Netherlands, UK, USA
+  chocolate_types: Dark; 100%
+  interesting_chocolate: 
+  sells_confections: true
+  sells_bulk: true
+  notable: Showcases the best that an origin has to offer. All of their chocolate
+    bars are made of only cocoa and sugar (except their 100% that has no sugar).
+  updated_at: January 24, 2021
+  notes: Under a lot of scrutiny right now due to the attempt but failure to get a
+    chocolate maker union.
+- name: Fruition Chocolate Works
+  primary_location: Shokan, NY, USA
+  locations: USA
+  shipping: USA
+  chocolate_types: White; milk; dark milk; dark; 100%
+  interesting_chocolate: cinnamon maple bourbon dark milk; brown butter milk; toasted
+    vanilla bean white
+  sells_confections: true
+  sells_bulk: false
+  notable: Perhaps the most accessible. They cover almost the entire spectrum of chocolate
+    with no loss in quality. Everyone can find something here that they will enjoy.
+  updated_at: January 24, 2021
+  notes: 
+- name: Fresco Chocolate
+  primary_location: Lynden, WA, USA
+  locations: USA
+  shipping: USA, international?
+  chocolate_types: Dark; 100%
+  interesting_chocolate: 100% flight (yes I'm serious)
+  sells_confections: true
+  sells_bulk: true
+  notable: Total chocolate nerds! If you like comparing how slight variations in the
+    chocolate making process affects the final flavors (even with the same origin),
+    then you will love this chocolate. In addition, their 100% chocolate bars are
+    full of complexity, so much so that the bitterness will fade into the background.
+  updated_at: January 24, 2021
+  notes: 
+- name: Goodnow Farms Chocolate
+  primary_location: Sudbury, MA, USA
+  locations: USA
+  shipping: USA
+  chocolate_types: Milk; Dark; 100%; inclusions
+  interesting_chocolate: '"Special reserve" line (e.g. brown butter, rum, whiskey,
+    coffee)'
+  sells_confections: false
+  sells_bulk: false
+  notable: Do you like fat? Of course you do! All of their chocolate includes added
+    cocoa butter, pressed from the same beans they're using for that bar.
+  updated_at: January 24, 2021
+  notes: 
+- name: Monsoon Chocolate
+  primary_location: Tucson, AZ, USA
+  locations: USA
+  shipping: USA
+  chocolate_types: whilte; milk; dark milk; dark; 100%; inclusion/infusion
+  interesting_chocolate: Oat milk; blue corn atole
+  sells_confections: true
+  sells_bulk: false
+  notable: Their oat milk chocolate is so perfect.
+  updated_at: January 24, 2021
+  notes: 
+- name: Castronovo Chocolate
+  primary_location: Stuart, FL, USA
+  locations: USA
+  shipping: USA, international?
+  chocolate_types: white; dark milk; dark; inclusions/infusions
+  interesting_chocolate: lemon oil and lemon salt infused white chocolate
+  sells_confections: true
+  sells_bulk: true
+  notable: A very accessible collection of chocolate. Their white chocolate is perhaps
+    one of the best white chocolates out there, and they do an outstanding job with
+    their dark milk chocolate.
+  updated_at: January 24, 2021
+  notes: 
+- name: Fu Wan Chocolate
+  primary_location: Taiwan
+  locations: Taiwan
+  shipping: See Notes ➡️
+  chocolate_types: white; dark; inclusions/infusions
+  interesting_chocolate: tea-infused chocolate
+  sells_confections: false
+  sells_bulk: false
+  notable: Grown in Taiwan, made in Taiwan. Their tea chocolate is a perfect marriage
+    of the finer notes of tea (e.g. tieguanyin) with the finer notes of their Taiwan-origin
+    chocolate.
+  updated_at: December 17, 2020
+  notes: Currently being boycotted. Potentially defunct.
+- name: French Broad Chocolate
+  primary_location: Asheville, NC, USA
+  locations: USA
+  shipping: USA
+  chocolate_types: milk; dark milk; dark; 100%; inclusion/infusion
+  interesting_chocolate: malted milk; chai masala milk; scorpion pepper dark
+  sells_confections: false
+  sells_bulk: true
+  notable: " "
+  updated_at: January 24, 2021
+  notes: 
+- name: Map Chocolate Co
+  primary_location: "??, USA"
+  locations: 
+  shipping: 
+  chocolate_types: 
+  interesting_chocolate: 
+  sells_confections: false
+  sells_bulk: true
+  notable: They definitely sold bars in the past, but they're now a general baking
+    supply store. The founder works/used to work part-time for Chocolate Alchemy.
+  updated_at: December 12, 2020
+  notes: 
+- name: SOMA chocolatemaker
+  primary_location: Toronto, Canada
+  locations: Canada
+  shipping: Canada, international
+  chocolate_types: milk; dark; inclusion/infusion
+  interesting_chocolate: "// TODO"
+  sells_confections: true
+  sells_bulk: false
+  notable: 
+  updated_at: December 12, 2020
+  notes: 
+- name: Potomac Chocolate
+  primary_location: Woodbridge, VA, USA
+  locations: USA
+  shipping: USA, international
+  chocolate_types: milk; dark milk; milk; inclusion/infusion
+  interesting_chocolate: '"I’M SORRY FOR WHAT I SAID WHEN I RAN OUT OF COCONUT"; "You
+    bread my mind"'
+  sells_confections: true
+  sells_bulk: false
+  notable: Good quality chocolate with good quality names.
+  updated_at: December 12, 2020
+  notes: 
+- name: Wm. Chocolate
+  primary_location: Madison, WI, USA
+  locations: USA
+  shipping: USA
+  chocolate_types: dark; 100%; inclusion/infusion
+  interesting_chocolate: 
+  sells_confections: false
+  sells_bulk: false
+  notable: 
+  updated_at: December 12, 2020
+  notes: 
+- name: White Label Chocolate
+  primary_location: Santa Cruz, CA, USA
+  locations: USA
+  shipping: USA
+  chocolate_types: dark; dark milk; milk; 100%
+  interesting_chocolate: Brown Butter Milk
+  sells_confections: false
+  sells_bulk: false
+  notable: If you're in Santa Cruz, Mutari offers White Label craft chocolate (and
+    shipping). Precovid I got to taste every single bar before walking out with a
+    few. You can also get it at Chocolate Covered in SF.
+  updated_at: January 24, 2021
+  notes: 
+- name: Solstice Chocolate
+  primary_location: Murray, UT, USA
+  locations: USA
+  shipping: 
+  chocolate_types: white; dark milk; dark; inclusion/infusion
+  interesting_chocolate: 
+  sells_confections: true
+  sells_bulk: true
+  notable: If you want a lot of good chocolate for baking, they sell in bulk.
+  updated_at: January 24, 2021
+  notes: 
+- name: Cuna de Piedra
+  primary_location: Monterrey, Mexico
+  locations: Mexico
+  shipping: Mexico, international
+  chocolate_types: dark; inclusion/infusion
+  interesting_chocolate: Ancient spring salt; mezcal; hibiscus flowers
+  sells_confections: false
+  sells_bulk: false
+  notable: Grown in Mexico, made in Mexico. Good chocolate with unique at-origin twists,
+    like mezcal.
+  updated_at: 
+  notes: 
+- name: Hogarth Chocolate
+  primary_location: Nelson, New Zealand
+  locations: New Zealand
+  shipping: New Zealand, international
+  chocolate_types: dark; inclusion/infusion
+  interesting_chocolate: Buttered toast and sea salt; gianduia dark hazelnut
+  sells_confections: false
+  sells_bulk: false
+  notable: 
+  updated_at: January 24, 2021
+  notes: 
+- name: Fjåk Sjokolade
+  primary_location: Eidfjord, Norway
+  locations: Norway
+  shipping: Norway, international
+  chocolate_types: white; milk; dark milk; dark; inclusion/infusion
+  interesting_chocolate: milk & brown cheese; milk & mushroom; milk & licorice root
+  sells_confections: true
+  sells_bulk: false
+  notable: One of Norway's first single-origin bean-to-bar makers. For their inclusion
+    bars, they use local ingredients (e.g. Norwegian goat cheese). Quite tasty overall.
+  updated_at: January 24, 2021
+  notes: 
+- name: Omnom Chocolate (USA store)
+  primary_location: Reykjavík, Iceland
+  locations: Iceland
+  shipping: Iceland, USA
+  chocolate_types: milk; dark milk; dark; 100%; inclusion/infusion
+  interesting_chocolate: |-
+    "Superchocoberrybarley
+    nibblynuttylicious"; Lakkrís + sea salt
+  sells_confections: false
+  sells_bulk: false
+  notable: Their milk chocolates use Icelandic milk powder. They also have some crazy
+    inclusions (e.g. "superchocoberrybarleynibblynuttylicious"). Note that they sell
+    big versions of some bars.
+  updated_at: January 24, 2021
+  notes: 
+- name: Indi Chocolate
+  primary_location: Seattle, WA, USA
+  locations: USA
+  shipping: USA, international?
+  chocolate_types: dark
+  interesting_chocolate: If you're there in person, ask if they have any bourbon aged
+    chocolate.
+  sells_confections: true
+  sells_bulk: false
+  notable: If you're looking for bars, this isn't the place. Indi mostly makes chocolate
+    products, starting from the bean. I recommend their cocoa-based spice rubs. They
+    also sell chocolate making equipment.
+  updated_at: January 24, 2021
+  notes: 
+- name: Theo Chocolate
+  primary_location: Seattle, WA, USA
+  locations: USA
+  shipping: USA
+  chocolate_types: milk; dark; inclusion/infusion
+  interesting_chocolate: 
+  sells_confections: true
+  sells_bulk: false
+  notable: Larger well-established chocolate maker, very accessible, available through
+    AmazonFresh. Seattle, WA institution. Good value for good chocolate, especially
+    if you like inclusions. No standard single-origin dark chocolate though.
+  updated_at: December 13, 2020
+  notes: 
+- name: Dick Taylor Craft Chocolate
+  primary_location: Eureka, CA, USA
+  locations: USA
+  shipping: 
+  chocolate_types: milk; dark; inclusion/infusion
+  interesting_chocolate: fleur de sel
+  sells_confections: true
+  sells_bulk: true
+  notable: Well-established and widely found.
+  updated_at: January 24, 2021
+  notes: 
+- name: Raaka Chocolate
+  primary_location: Brooklyn, NY, USA
+  locations: USA
+  shipping: USA, Canada
+  chocolate_types: unroasted - dark; 100%; inclusion/infusion
+  interesting_chocolate: (too many to note; see "why it's notable")
+  sells_confections: false
+  sells_bulk: true
+  notable: Raaka is well-known for using unroasted cocoa. Different flavor profiles
+    from your standard roasted bars, but since the profile is fermenty for the most
+    part, most of their bars are infusions.
+  updated_at: January 24, 2021
+  notes: Has a subscription ("First Nibs")
+- name: Askinosie Chocolate
+  primary_location: Springfield, MO, USA
+  locations: USA
+  shipping: USA
+  chocolate_types: white; milk; dark milk; dark; inclusion/infusion
+  interesting_chocolate: 
+  sells_confections: true
+  sells_bulk: true
+  notable: 
+  updated_at: January 24, 2021
+  notes: 
+- name: Patric Chocolate
+  primary_location: Columbia, MO, USA
+  locations: USA
+  shipping: USA
+  chocolate_types: 
+  interesting_chocolate: PBJ OMG
+  sells_confections: false
+  sells_bulk: false
+  notable: 
+  updated_at: December 13, 2020
+  notes: Unfortunately "closed until the next chocolate bar release". Seems to have
+    monthly release cadence.
+- name: Letterpress Chocolate
+  primary_location: Los Angeles, CA, USA
+  locations: USA
+  shipping: USA
+  chocolate_types: white; dark; inclusion/infusion
+  interesting_chocolate: 
+  sells_confections: false
+  sells_bulk: false
+  notable: 
+  updated_at: January 24, 2021
+  notes: 
+- name: Woodblock Chocolate
+  primary_location: Portland, OR, USA
+  locations: USA
+  shipping: USA
+  chocolate_types: milk; dark milk; dark; inclusion/infusion
+  interesting_chocolate: 
+  sells_confections: true
+  sells_bulk: true
+  notable: Small local Portland business. Several other local businesses use their
+    chocolate.
+  updated_at: January 24, 2021
+  notes: They don't sell individual bars online, only sets of bars.
+- name: Kahkow
+  primary_location: New York City, NY, USA
+  locations: USA, Dominican Republic
+  shipping: USA international (wholesale)
+  chocolate_types: dark; inclusion/infusion
+  interesting_chocolate: Añejo VSOD
+  sells_confections: true
+  sells_bulk: true
+  notable: Dominican Republic single-origin, single-estate. Essentially a storefront
+    to their farm in the DR. You'll find that there are differences among cacao from
+    the same farm.
+  updated_at: January 24, 2021
+  notes: 
+- name: Manoa Chocolate
+  primary_location: Kailua, HI, USA
+  locations: USA (Hawaii)
+  shipping: USA
+  chocolate_types: milk; dark; inclusion/infusion
+  interesting_chocolate: 
+  sells_confections: true
+  sells_bulk: true
+  notable: While they do make chocolate from common origins like Ecuador, they're
+    especially notable for sourcing cacao across the different Hawaiian islands. Because
+    the soil is so atypical, Hawaiian chocolate will have unique flavor profiles.
+  updated_at: January 24, 2021
+  notes: 
+- name: Parliament Chocolate
+  primary_location: Redlands, CA, USA
+  locations: USA
+  shipping: USA, international?
+  chocolate_types: milk; dark; inclusion/infusion
+  interesting_chocolate: ice cream / milk bar; mezcal / citrus
+  sells_confections: true
+  sells_bulk: false
+  notable: 
+  updated_at: December 14, 2020
+  notes: 
+- name: Ritual Chocolate
+  primary_location: Heber, UT, USA
+  locations: USA
+  shipping: 
+  chocolate_types: dark; 100%; inclusion/infusion
+  interesting_chocolate: bourbon barrel aged; juniper lavender; s'mores
+  sells_confections: false
+  sells_bulk: false
+  notable: A very good range of chocolate for those who like dark. Plenty of the standard
+    origin chocolates, and plenty of interesting flavors like s'mores and pine nut.
+  updated_at: January 24, 2021
+  notes: Has a subscription.
+- name: Palette de Bine
+  primary_location: Mont-Tremblant, Quebec, Canada
+  locations: Canada
+  shipping: Canada, international?
+  chocolate_types: milk; dark; 100%; inclusion/infusion
+  interesting_chocolate: 
+  sells_confections: true
+  sells_bulk: false
+  notable: 
+  updated_at: December 14, 2020
+  notes: Possibly inaccurate information because online store is only localized for
+    fr-CA, and author cannot read French.
+- name: Qantu
+  primary_location: Montreal, Quebec, Canada
+  locations: Canada
+  shipping: Canada, international?
+  chocolate_types: milk; dark milk; dark; inclusion/infusion
+  interesting_chocolate: Yirgacheffe coffee; maple and sea salt
+  sells_confections: false
+  sells_bulk: false
+  notable: Many award-winning chocolates.
+  updated_at: December 14, 2020
+  notes: The CAD 40.00 bar is a super limited edition wild cacao bar. The next most
+    expensive is CAD 14.00.
+- name: Xocolatl Small Batch Chocolate
+  primary_location: Atlanta, GA, USA
+  locations: USA
+  shipping: USA, international?
+  chocolate_types: dark; 100%; inclusion/infusion
+  interesting_chocolate: Soul Rebel (coconut milk + jerk spices)
+  sells_confections: true
+  sells_bulk: true
+  notable: An Atlanta institution. Plenty of weird flavor inclusions not seen elsewhere.
+  updated_at: January 24, 2021
+  notes: 
+- name: Mission Chocolate
+  primary_location: Sao Paulo, Brazil
+  locations: Brazil
+  shipping: Brazil, USA (via Roni-Sue)
+  chocolate_types: white; milk; dark milk; dark; inclusion/infusion
+  interesting_chocolate: avocado & coco
+  sells_confections: true
+  sells_bulk: false
+  notable: 
+  updated_at: January 24, 2021
+  notes: 
+- name: green bean to bar
+  primary_location: Tokyo, Japan
+  locations: Japan
+  shipping: Japan
+  chocolate_types: milk; dark; inclusion/infusion
+  interesting_chocolate: Green lemon
+  sells_confections: true
+  sells_bulk: false
+  notable: Only available in Japan, except when they visit for a chocolate festival.
+    Their green lemon bar is an excellent balance of citrus with chocolate.
+  updated_at: December 12, 2020
+  notes: 
+- name: Coco Caravan
+  primary_location: Stroud, UK
+  locations: UK
+  shipping: UK, EU, USA, Canada, international?
+  chocolate_types: unroasted - white; milk; dark; 100%; inclusion/infusion
+  interesting_chocolate: 
+  sells_confections: true
+  sells_bulk: false
+  notable: Same deal as Raaka (listed above) in that they use unroasted. They also
+    exclusively use coconut blossom nectar instead of sugar.
+  updated_at: December 14, 2020
+  notes: 
+- name: BOHO Chocolate
+  primary_location: Florence, MA, USA
+  locations: USA
+  shipping: USA, international?
+  chocolate_types: white; milk; dark milk; dark; inclusion/infusion
+  interesting_chocolate: white + lemon oil; milk + potato chips
+  sells_confections: false
+  sells_bulk: false
+  notable: 
+  updated_at: January 24, 2021
+  notes: 
+- name: Marou Chocolate
+  primary_location: Ho Chi Minh City, Vietnam
+  locations: Vietnam
+  shipping: 'N/A: local stockists only'
+  chocolate_types: dark; 100%; inclusion/infusion
+  interesting_chocolate: 
+  sells_confections: false
+  sells_bulk: false
+  notable: Vietnam origin chocolate. Very pleasant fruity chocolate. They are also
+    the main distributors of Vietnam origin cocoa beans (i.e. any chocolate maker
+    with a Vietnam bar almost certainly got their cocoa from Marou).
+  updated_at: December 15, 2020
+  notes: Unfortunately very little information here, and generally quite rare to find
+    too. Price range is from a US-based online distributor.
+- name: Sol Cacao
+  primary_location: South Bronx(Port Morris), NY, USA
+  locations: 
+  shipping: USA, international?
+  chocolate_types: 70%
+  interesting_chocolate: 
+  sells_confections: false
+  sells_bulk: false
+  notable: Owners grew up in Trinidad and Tobago. "Cacao and chocolate are staples
+    of the Caribbean culture and an inherent part of the Maloney family livelihood."
+  updated_at: December 15, 2020
+  notes: 
+- name: Svenska Kakao (SE) Swedish Cacao Company (US)
+  primary_location: Österlen, Sweden
+  locations: Sweden
+  shipping: Sweden, international
+  chocolate_types: dark milk; dark; 100%; inclusion/infusion
+  interesting_chocolate: Lakrits dark milk; Kardemumma 71%
+  sells_confections: true
+  sells_bulk: false
+  notable: One of Sweden's few bean-to-bar makers. Interesting use of flavor pairings
+    like cardamom and licorice.
+  updated_at: December 17, 2020
+  notes: Swedish site only ships within Sweden. They have a US site. They might have
+    a online store for your country.
+- name: Plaq Chocolat
+  primary_location: Paris, France
+  locations: France
+  shipping: "?"
+  chocolate_types: dark; inclusion/infusion
+  interesting_chocolate: 
+  sells_confections: false
+  sells_bulk: false
+  notable: 
+  updated_at: January 12, 2021
+  notes: I can't read French.
+- name: El Buen Cacao
+  primary_location: 
+  locations: 
+  shipping: 
+  chocolate_types: 
+  interesting_chocolate: 
+  sells_confections: false
+  sells_bulk: false
+  notable: 
+  updated_at: 
+  notes: 
+- name: Óbolo
+  primary_location: 
+  locations: 
+  shipping: 
+  chocolate_types: 
+  interesting_chocolate: 
+  sells_confections: false
+  sells_bulk: false
+  notable: 
+  updated_at: 
+  notes: 
+- name: Christopher Elbow
+  primary_location: 
+  locations: 
+  shipping: 
+  chocolate_types: 
+  interesting_chocolate: 
+  sells_confections: false
+  sells_bulk: false
+  notable: 
+  updated_at: 
+  notes: 
+- name: Black Sheep
+  primary_location: 
+  locations: 
+  shipping: 
+  chocolate_types: 
+  interesting_chocolate: 
+  sells_confections: false
+  sells_bulk: false
+  notable: 
+  updated_at: 
+  notes: 
+- name: Brasstown
+  primary_location: 
+  locations: 
+  shipping: 
+  chocolate_types: 
+  interesting_chocolate: 
+  sells_confections: false
+  sells_bulk: false
+  notable: 
+  updated_at: 
+  notes: 
+- name: Pump Street
+  primary_location: 
+  locations: 
+  shipping: 
+  chocolate_types: 
+  interesting_chocolate: 
+  sells_confections: false
+  sells_bulk: false
+  notable: 
+  updated_at: 
+  notes: 
+- name: Eldora
+  primary_location: 
+  locations: 
+  shipping: 
+  chocolate_types: 
+  interesting_chocolate: 
+  sells_confections: false
+  sells_bulk: false
+  notable: 
+  updated_at: 
+  notes: 
+- name: Lirio
+  primary_location: 
+  locations: 
+  shipping: 
+  chocolate_types: 
+  interesting_chocolate: 
+  sells_confections: false
+  sells_bulk: false
+  notable: 
+  updated_at: 
+  notes: 
+- name: La Folie
+  primary_location: 
+  locations: 
+  shipping: 
+  chocolate_types: 
+  interesting_chocolate: 
+  sells_confections: false
+  sells_bulk: false
+  notable: 
+  updated_at: 
+  notes: 
+- name: Bar Au Chocolat
+  primary_location: 
+  locations: 
+  shipping: 
+  chocolate_types: 
+  interesting_chocolate: 
+  sells_confections: false
+  sells_bulk: false
+  notable: 
+  updated_at: 
+  notes: 
+- name: Condor Chocolate
+  primary_location: 
+  locations: 
+  shipping: 
+  chocolate_types: 
+  interesting_chocolate: 
+  sells_confections: false
+  sells_bulk: false
+  notable: 
+  updated_at: 
+  notes: 
+- name: Fossa
+  primary_location: 
+  locations: 
+  shipping: 
+  chocolate_types: 
+  interesting_chocolate: 
+  sells_confections: false
+  sells_bulk: false
+  notable: 
+  updated_at: 
+  notes: 
+- name: Miann
+  primary_location: 
+  locations: 
+  shipping: 
+  chocolate_types: 
+  interesting_chocolate: 
+  sells_confections: false
+  sells_bulk: false
+  notable: 
+  updated_at: 
+  notes: 
+- name: Spinnaker
+  primary_location: 
+  locations: 
+  shipping: 
+  chocolate_types: 
+  interesting_chocolate: 
+  sells_confections: false
+  sells_bulk: false
+  notable: They roast differently - instead of drum roasting whole beans, they crack
+    and winnow and roast the nibs in sheet pans.
+  updated_at: 
+  notes: 
