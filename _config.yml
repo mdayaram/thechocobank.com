@@ -24,8 +24,7 @@ url: "https://thechocobank.com" # the base hostname & protocol for your site, e.
 # Build settings
 markdown: kramdown
 theme: minima
-plugins:
-  - jekyll-toc
+plugins: []
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

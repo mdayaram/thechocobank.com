@@ -1,9 +1,11 @@
 ---
-layout: toc
+layout: page
 title: Chocolate FAQ
 permalink: /faq
-toc: true
 ---
+
+* TOC
+{:toc}
 
 # I don't have time to read all this, can you give me a quick intro to everything?
 
