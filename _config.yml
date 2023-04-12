@@ -25,7 +25,7 @@ url: "https://thechocobank.com" # the base hostname & protocol for your site, e.
 markdown: kramdown
 theme: minima
 plugins:
-  - jekyll-feed
+  - jekyll-toc
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -40,7 +40,12 @@ plugins:
 #   - vendor/ruby/
 
 # Minima Theme Options
-header_pages: [] # don't show any header pages.
+header_pages:
+  - preface.md
+  - faq.md
+  - lesson-pack.md
+  - resources.md
 minima:
   social_links:
     - { platform: instagram, user_url: "https://instagram.com/thechocolatepolice" }
+

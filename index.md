@@ -6,10 +6,10 @@ permalink: /
 
 # Introduction
 
-* [Preface]()
-* [Chocolate FAQ]()
-* [Chocolate Lesson Pack]()
-* [Educational Resources]()
+* [Preface](/preface)
+* [Chocolate FAQ](/faq)
+* [Chocolate Lesson Pack](/lesson-pack)
+* [Educational Resources](/resources)
 
 # What is craft chocolate
 
