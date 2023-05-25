@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>{{ site.title }}</title>
+
+    <link rel="stylesheet" href="{{ "/styles/main.css" | relative_url }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/icons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/icons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/icons/favicon-16x16.png">
+    <link rel="manifest" href="/icons/site.webmanifest">
+    <link rel="mask-icon" href="/icons/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/icons/favicon.ico">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="msapplication-config" content="/icons/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+</head>
+
+<body>
+    <header>
+        <div class="logo">
+          <a href="/"><img src="imgs/logo.png" alt="ChocoWiki Logo"></a>
+        </div>
+        <nav>
+            <ul>
+                {%- assign default_paths = site.pages | map: "path" -%}
+                {%- assign page_paths = site.header_pages | default: default_paths -%}
+                {%- for path in page_paths -%}
+                {%- assign my_page = site.pages | where: "path", path | first -%}
+                <li><a href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a></li>
+                {%- endfor -%}
+            </ul>
+        </nav>
+    </header>
+
+    {{ content }}
+
+    <footer>
+        <div class="container social-icons">
+            <p>The Chocobank&trade; &nbsp;&nbsp;&nbsp;&nbsp;
+                {%- for entry in site.data.social_links -%}
+                <a href="{{ entry.user_url }}" target="_blank" rel="noopener noreferrer"
+                    title="{{ entry.title | default: entry.platform }}"><i class="fab fa-{{ entry.platform }}"></i></a>
+                {%- endfor -%}
+                &nbsp;&nbsp;&nbsp;&nbsp;
+                | The non-definitive craft chocolate guide.
+            </p>
+        </div>
+    </footer>
+</body>
+</html>

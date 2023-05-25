@@ -1,6 +1,6 @@
 ---
-layout: page
-title: The Choco Bank
+layout: hero
+title: The Chocobank
 permalink: /
 ---
 

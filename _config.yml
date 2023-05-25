@@ -13,39 +13,20 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: The Choco Bank
+title: The Chocobank
 email: ""
-description: >- # this means to ignore newlines until "baseurl:"
-  The non-definitive craft chocolate guide.
+description: The non-definitive craft chocolate guide.
 domain: thechocobank.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://thechocobank.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
-theme: minima
 plugins: []
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-
-# Minima Theme Options
 header_pages:
   - preface.md
   - faq.md
   - lesson-pack.md
   - resources.md
-minima:
-  social_links:
-    - { platform: instagram, user_url: "https://instagram.com/thechocolatepolice" }
-    - { platform: github, user_url: "https://github.com/mdayaram/thechocobank.com" }
-
+  - directory.md
