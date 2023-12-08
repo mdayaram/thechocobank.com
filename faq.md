@@ -154,3 +154,19 @@ For most commodity (and some craft) chocolate bars, the good folks at [asyousow.
 [https://www.asyousow.org/environmental-health/toxic-enforcement/toxic-chocolate](https://www.asyousow.org/environmental-health/toxic-enforcement/toxic-chocolate)
 
 Unfortunately, we’re unaware of a similar resource for most small batch craft chocolate makers, but if you find one, let us know!
+
+# Where did chocolate come from? What's the history of chocolate?
+
+Oh boy, there's so much speculation here, and not _that_ much certainty. And to be quite honest, I keep re-learning this stuff over and over because I end up forgetting it after a while. Still, we can share the resources we've personally found useful and enlightening which can hopefully help shed light on the history of chocolate. For starters, this video does a really good job at giving an overview of what we know today:
+
+[Chocolate: Food of the Gods](https://www.youtube.com/watch?v=s4nBlkk1210)
+
+And if you wanted more nitty gritty, the video's author was kind enough to share their bibliography, which is rather intensive (and a little overwhelming!)
+
+[Chocolate: Food of the Gods - Blibiography](https://docs.google.com/document/d/1UB1EaM6tIoo7ptungjBpfWxjz269Cgt04o07aCNc0XI/edit)
+
+The one book that I've read which seemed to be fairly accurate and pretty enlightening was The True History of Chocolate by Sophie D Coe and Michael D. Coe.
+
+[The True History of Chocolate 3e](https://www.thamesandhudsonusa.com/books/true-history-of-chocolate-3e-softcover-3rd-edition)
+
+And that's all we got so far. If you have more info you'd like to share, let us know and we'll add it here!
